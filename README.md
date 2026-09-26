@@ -1,4 +1,4 @@
-# Driving-School-Management-System-
+# Driving School Management System
 
 A relational database and desktop application for running a driving school: students, instructors, vehicles, lessons, exams, payments and training packages. Built with **MySQL**, **Python** and **PyQt6**, with a **Pandas / Matplotlib** analysis notebook.
 
